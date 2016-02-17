@@ -1,0 +1,25 @@
+{ 
+"all_walls": 
+	[ 
+	{
+			"author": "Calcutta Instagrammers",
+			"url": "http://i.imgur.com/4L4ddvP.jpg",
+			"name": "1"
+		},
+		{
+			"author": "Calcutta Instagrammers",
+			"url": "http://i.imgur.com/RLiXSzz.jpg",
+			"name": "2"
+		},
+		{
+			"author": "Calcutta Instagrammers",
+			"url": "http://i.imgur.com/EEeGbER.jpg?1",
+			"name": "3"
+		},
+		{
+			"author": "Calcutta Instagrammers",
+			"url": "http://i.imgur.com/a1TUm4A.jpg",
+			"name": "4"
+		}
+	]
+}
